@@ -1,1 +1,1 @@
-# Cellular Image Classification
+# Graphical Models

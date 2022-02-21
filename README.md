@@ -1,1 +1,1 @@
-# Graphical Models
+# Graphical Neural Network

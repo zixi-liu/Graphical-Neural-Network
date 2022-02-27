@@ -6,7 +6,9 @@
 
 ## Methods
 
-- Shallow Encodings
-- Random Walk
+- **Shallow Encoding**
+- **Random Walk**
+  - **Deep Walk** [KDD 2014][DeepWalk: Online Learning of Social Representations](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
+  - **Node2Vec** [KDD 2016][node2vec: Scalable Feature Learning for Networks](https://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node-embedding-encode.PNG" alt="GNN-Embedding" width = "600"/>

@@ -10,5 +10,9 @@
 - Node Embeddings
 - Link Analysis
 - Graph Neural Networks
+- Deep Generative Models for Graphs
 - GNNs for Recommender Systems
 - Graph Database
+
+## Resources
+- Stanford CS224W: Machine Learning with Graphs[[Class Video]](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=1)

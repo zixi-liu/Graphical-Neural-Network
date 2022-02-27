@@ -4,6 +4,9 @@
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node-embeddings.png" alt="GNN" width = "600"/>
 
-## Method
+## Methods
+
+- Shallow Encodings
+- Random Walk
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node-embedding-encode.PNG" alt="GNN-Embedding" width = "600"/>

@@ -2,6 +2,8 @@
 
 [Cypher Cheatsheet](https://neo4j.com/docs/cypher-refcard/current/?ref=browser-guide)
 
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/recommendation.PNG" alt="recommendation"/>
+
 ## Content-Based Filtering
 
 Recommend items that are similar to those that a user is viewing, rated highly or purchased previously.

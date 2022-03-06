@@ -6,7 +6,6 @@ import itertools
 from joblib import Parallel, delayed
 
 
-
 # Utils
 def partition_num(num, workers):
     if num % workers == 0:

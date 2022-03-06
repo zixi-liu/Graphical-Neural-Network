@@ -34,6 +34,6 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-algorithm-2.PNG" alt="Deep Walk Algorithm 2" />
 
-**Examples**
+**Examples - wiki data**
 
- <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-plot.PNG" alt="Overview" width = "500px" />
+ <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-plot.PNG" alt="Overview" width = "300px" />

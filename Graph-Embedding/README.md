@@ -2,11 +2,9 @@
 
 **Map nodes into a d-dimensional embedding space such that similar nodes in the network are mebedded close together.**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node-embeddings.png" alt="GNN" width = "500px"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk"/>
 
 ## Methods
-
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk"/>
 
 - **Shallow Encoding**
 - **Random Walk**
@@ -21,7 +19,8 @@
 
 **Deep Walk** learns representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/overview-deep-walk.PNG" alt="Overview" width = "800px"/>
+**Overview of Deep Walk**
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/overview-deep-walk.PNG" alt="Overview" width = "850px"/>
 
 
 

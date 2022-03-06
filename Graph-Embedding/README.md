@@ -20,7 +20,7 @@
 
 ## Deep Walk
 
-**Deep Walk** learns representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
+**Deep Walk** learns representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling (skip gram).
 
 **Overview of Deep Walk**
 

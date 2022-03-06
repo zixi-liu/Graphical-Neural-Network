@@ -6,15 +6,17 @@
 
 ## Methods
 
-(1) Vector Point–Based Graph Embedding Methods
+1) Vector Point–Based Graph Embedding Methods
 - **Random Walk**
   - **Deep Walk** [KDD 2014] [DeepWalk: Online Learning of Social Representations](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
   - **Node2Vec** [KDD 2016] [node2vec: Scalable Feature Learning for Networks](https://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf)
   - **LINE**
   - **SDNE**
   - **Struc2Vec**
-(2) Gaussian Distribution–Based Graph Embedding
-(3) Dynamic Graph Embedding
+ 
+2) Gaussian Distribution–Based Graph Embedding
+
+3) Dynamic Graph Embedding
 
 ## Deep Walk
 

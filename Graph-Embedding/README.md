@@ -6,7 +6,6 @@
 
 ## Methods
 
-- **Shallow Encoding**
 - **Spectral Clustering**
 - **Edge Cluster**
 - **Modularity**

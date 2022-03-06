@@ -20,6 +20,9 @@
 **Deep Walk** learns representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
 
 **Overview of Deep Walk**
+
+The representation Φ is updated to maximize the probability of v1 co-occurring with its context {v3, v5}.
+
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/overview-deep-walk.PNG" alt="Overview" width = "850px"/>
 
 

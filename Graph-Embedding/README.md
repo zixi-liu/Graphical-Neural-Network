@@ -14,6 +14,8 @@
 
 ### Deep Walk
 
-Random walks have been used as a similarity measure for a variety of problems in content recommendation and community detection. **Deep Walk** learn representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
+Random walks have been used as a similarity measure for a variety of problems in content recommendation and community detection. 
+
+**Deep Walk** learn representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk" width = "600"/>

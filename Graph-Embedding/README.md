@@ -12,7 +12,7 @@
   - **Node2Vec** [KDD 2016] [node2vec: Scalable Feature Learning for Networks](https://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf)
 
 
-### Deep Walk
+## Deep Walk
 
 **Deep Walk** learn representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
 

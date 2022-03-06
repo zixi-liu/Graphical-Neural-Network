@@ -21,7 +21,7 @@
 
 **Overview of Deep Walk**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/overview-deep-walk.PNG" alt="Overview" width = "850px"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/overview-deep-walk.PNG" alt="Overview" />
 
 Note: The representation Φ is updated to maximize the probability of v1 co-occurring with its context {v3, v5}.
 

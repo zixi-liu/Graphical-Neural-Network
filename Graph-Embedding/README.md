@@ -14,6 +14,7 @@
   - **SDNE**
   - **Struc2Vec**
 
+
 ## Deep Walk
 
 **Deep Walk** learn representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.

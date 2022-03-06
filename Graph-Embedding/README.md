@@ -6,6 +6,8 @@
 
 ## Methods
 
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk"/>
+
 - **Shallow Encoding**
 - **Random Walk**
   - **Deep Walk** [KDD 2014] [DeepWalk: Online Learning of Social Representations](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
@@ -19,7 +21,9 @@
 
 **Deep Walk** learns representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling.
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/overview-deep-walk.PNG" alt="Overview"/>
+
+
 
 **Algorithm**
 

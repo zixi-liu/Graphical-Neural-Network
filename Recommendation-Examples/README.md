@@ -8,7 +8,7 @@
 CALL db.schema.visualization()
 ```
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/recommendation.PNG" alt="recommendation"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/recommendation-movie.png" alt="recommendation"/>
 
 ## Content-Based Filtering
 

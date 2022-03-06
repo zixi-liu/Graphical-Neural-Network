@@ -25,7 +25,7 @@
 
 Note: The representation Φ is updated to maximize the probability of v1 co-occurring with its context {v3, v5}.
 
-**Algorithm**
+**Algorithms**
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-algorithm-1.PNG" alt="Deep Walk Algorithm 1" />
 

@@ -13,3 +13,5 @@
 
 
 ### Deep Walk
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk" width = "600"/>

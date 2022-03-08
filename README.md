@@ -16,3 +16,4 @@
 
 ## Resources
 - Stanford CS224W: Machine Learning with Graphs [[Class Video]](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=1)
+- Awesome Slides on fraud detection using GNNs [[Slides]](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)

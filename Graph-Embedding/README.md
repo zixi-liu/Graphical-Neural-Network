@@ -18,7 +18,7 @@
 
 3) Dynamic Graph Embedding
 
-## Deep Walk
+## Deep Walk [[Video]](https://www.youtube.com/watch?v=aZNtHJwfIVg)
 
 **Deep Walk** learns representation for vertices from a stream of short random walks, using optimization techniques originally designed for language modeling (skip gram).
 

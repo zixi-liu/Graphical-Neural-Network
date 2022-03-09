@@ -4,6 +4,8 @@
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-example.PNG" alt="Deep Walk"/>
 
+A first step in machine learning for graphs is to extract graph features.
+
 ## Methods
 
 1) Vector Point–Based Graph Embedding Methods

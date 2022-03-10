@@ -57,3 +57,9 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
 
 - Under the structural equivalence hypothesis, nodes that have similar structural roles in networks should be embedded closely together. DFS can explore larger parts of
 the network as it can move further away from the source node u. In DFS, the sampled nodes more accurately reflect a macro-view of the neighborhood.
+
+**A Flexible Biased Random Walk**
+
+- The simplest way to bias our random walks would be to sample the next node based on the static edge weights.
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/random-walk-node2vec.PNG" alt="random walk" width = "400px" />

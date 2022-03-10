@@ -43,3 +43,5 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
  ## Node2Vec
 
 **Node2Vec** define a flexible notion of a node’s network neighborhood and design a biased random walk procedure, which efficiently explores diverse neighborhoods. The neighborhoods Ns(u) are not restricted to just immediate neighbors but can have vastly different structures depending on the sampling strategy S.
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/sampling-strategy.PNG" alt="Overview" width = "400px" />

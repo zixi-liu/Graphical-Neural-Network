@@ -42,4 +42,4 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
  
  ## Node2Vec
 
-The neighborhoods N_s(u) are not restricted to just immediate neighbors but can have vastly different structures depending on the sampling strategy S.
+The neighborhoods Ns(u) are not restricted to just immediate neighbors but can have vastly different structures depending on the sampling strategy S.

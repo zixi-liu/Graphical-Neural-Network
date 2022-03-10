@@ -62,4 +62,4 @@ the network as it can move further away from the source node u. In DFS, the samp
 
 - The simplest way to bias our random walks would be to sample the next node based on the static edge weights.
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/random-walk-node2vec.PNG" alt="random walk" width = "400px" />
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/random-walk-node2vec.PNG" alt="random walk" width = "300px" />

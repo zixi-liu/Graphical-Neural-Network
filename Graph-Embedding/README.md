@@ -30,7 +30,7 @@ A first step in machine learning for graphs is to extract graph features.
 
 Note: The representation Φ is updated to maximize the probability of v1 co-occurring with its context {v3, v5}.
 
-**Algorithms**
+**Algorithm Design**
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-algorithm-1.PNG" alt="Deep Walk Algorithm 1" />
 
@@ -68,7 +68,7 @@ the network as it can move further away from the source node u. In DFS, the samp
 
 - **In-out parameter, q** Parameter q allows the search to differentiate between “inward” and “outward” nodes. 
 
-**Algorithms**
+**Algorithm Design**
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node2vec.PNG" alt="node2vec"  />
 

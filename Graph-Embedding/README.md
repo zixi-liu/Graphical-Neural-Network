@@ -50,3 +50,10 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
 - **Depth-first Sampling (DFS)** The neighborhood consists of nodes sequentially sampled at increasing distances from the source node. 
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/sampling-strategy.PNG" alt="Overview" width = "400px" />
+
+**Homophily and Structural Equivalence**
+
+- Under the homophily hypothesis, nodes that are highly interconnected and belong to similar network clusters or communities should be embedded closely together. BFS lead to embeddings that correspond closely to structural equivalence. By restricting search to nearby nodes, BFS obtains a microscopic view of the neighborhood of every node.
+
+- Under the structural equivalence hypothesis, nodes that have similar structural roles in networks should be embedded closely together. DFS can explore larger parts of
+the network as it can move further away from the source node u. In DFS, the sampled nodes more accurately reflect a macro-view of the neighborhood.

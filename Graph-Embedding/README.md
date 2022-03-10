@@ -9,7 +9,7 @@ A first step in machine learning for graphs is to extract graph features.
 ## Methods
 
 1) Vector Point–Based Graph Embedding Methods
-  - **Random Walk**
+
     - **Deep Walk** [KDD 2014] [DeepWalk: Online Learning of Social Representations](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
     - **Node2Vec** [KDD 2016] [node2vec: Scalable Feature Learning for Networks](https://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf)
     - **LINE** [WWW 2015] [LINE: Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf)

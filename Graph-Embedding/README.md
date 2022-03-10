@@ -41,3 +41,5 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
  <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-walk-plot.PNG" alt="Overview" width = "300px" />
  
  ## Node2Vec
+
+The neighborhoods NS(u) are not restricted to just immediate neighbors but can have vastly different structures depending on the sampling strategy S.

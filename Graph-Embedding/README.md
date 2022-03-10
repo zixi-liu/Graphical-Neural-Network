@@ -71,3 +71,6 @@ the network as it can move further away from the source node u. In DFS, the samp
 **Algorithms**
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node2vec.PNG" alt="node2vec"  />
+
+[[More Resources]](http://snap.stanford.edu/node2vec/)
+[[Github]](https://github.com/aditya-grover/node2vec)

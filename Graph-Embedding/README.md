@@ -44,4 +44,9 @@ Note: The representation Φ is updated to maximize the probability of v1 co-occu
 
 **Node2Vec** define a flexible notion of a node’s network neighborhood and design a biased random walk procedure, which efficiently explores diverse neighborhoods. The neighborhoods Ns(u) are not restricted to just immediate neighbors but can have vastly different structures depending on the sampling strategy S.
 
+**Classic Search Strategies**
+
+- **Breadth-first Sampling (BFS)** The neighborhood Ns is restricted to nodes which are immediate neighbors of the source.
+- **Depth-first Sampling (DFS)** The neighborhood consists of nodes sequentially sampled at increasing distances from the source node. 
+
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/sampling-strategy.PNG" alt="Overview" width = "400px" />

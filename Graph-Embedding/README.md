@@ -70,4 +70,4 @@ the network as it can move further away from the source node u. In DFS, the samp
 
 **Algorithms**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node2vec.PNG" alt="node2vec" width = "400px" />
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/node2vec.PNG" alt="node2vec"  />

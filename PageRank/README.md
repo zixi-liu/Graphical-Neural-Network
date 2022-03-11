@@ -41,4 +41,4 @@ Surfer will teleport out of spider trap within a few time steps.
 
 ### Bipartite Graph
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/bipartite-graph.PNG" alt="Bipartite Graph"  />
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/bipartite-graph.PNG" alt="Bipartite Graph" width = "800px" />

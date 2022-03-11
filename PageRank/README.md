@@ -37,4 +37,4 @@ Surfer will teleport out of spider trap within a few time steps.
 - PageRank solves for 𝒓 = 𝑮𝒓 and can be efficiently computed by power iteration of the stochastic adjacency matrix (𝑮);
 - Adding random uniform teleportation solves issues of dead-ends and spider-traps;
 
-
+## Random Walk with Restarts

@@ -51,9 +51,29 @@ Surfer will teleport out of spider trap within a few time steps.
 
 **Pseudo Code**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/pseudo-code.PNG" alt="Pseudo Code" width = "500px" />
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/pseudo-code.PNG" alt="Pseudo Code"  />
 
 
 ## Personalized Page Rank
 
 - Ranks proximity of nodes to the teleport nodes S.
+
+
+## Summary
+
+### PageRank:
+- Teleports to any node
+- Nodes can have the same probability of the surfer landing:
+
+          𝑺 = [0.1,0.1,0.1, 0.1,0.1,0.1, 0.1,0.1,0.1, 0.1]
+   
+### Topic-Specific PageRank aka Personalized PageRank:
+- Teleports to a specific set of nodes
+- Nodes can have different probabilities of the surfer landing there:
+
+          𝑺 = [0.1,0, 0,0.2, 0, 0,0.5,0,0, 0.2]
+          
+### Random Walk with Restarts:
+- Topic-Specific PageRank where teleport is always to the same node:
+
+         𝑺 = [0,0, 0,0, 𝟏, 0, 0, 0, 0, 0,0]

@@ -38,3 +38,7 @@ Surfer will teleport out of spider trap within a few time steps.
 - Adding random uniform teleportation solves issues of dead-ends and spider-traps;
 
 ## Random Walk with Restarts
+
+### Bipartite Graph
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/bipartite-graph.PNG" alt="Bipartite Graph"  />

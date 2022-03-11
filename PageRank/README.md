@@ -51,7 +51,7 @@ Surfer will teleport out of spider trap within a few time steps.
 
 **Pseudo Code**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/pseudo-code.PNG" alt="Pseudo Code" width = "800px" />
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/pseudo-code.PNG" alt="Pseudo Code" />
 
 
 ## Personalized Page Rank

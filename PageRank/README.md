@@ -47,7 +47,7 @@ Surfer will teleport out of spider trap within a few time steps.
 
 - Given a set of QUERY NODES Q, simulate a random walk and get number of visits by random walks starting at Q:
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/rw-restarts.PNG" alt="Bipartite Graph" width = "800px" />
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/random-walk-restarts.PNG" alt="Bipartite Graph" width = "800px" />
 
 
 ## Personalized Page Rank

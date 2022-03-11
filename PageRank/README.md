@@ -23,9 +23,18 @@ Link Analysis allow us to measure importance of nodes in a graph using the link 
 - **Dead Ends** (have no out-links)
 - **Spider Traps** (all out-links are within the group)
 
-**Solution for spider traps:** At each time step, the random surfer has two options
+**Solution for Spider Traps:** At each time step, the random surfer has two options
 -  With prob. b, follow a link at random;
 -  With prob. 1-b, jump to a random page;
 -  Common values for b are in the range 0.8 to 0.9;
 
 Surfer will teleport out of spider trap within a few time steps.
+
+**Solution for Dead Ends:** : Follow random teleport links with total probability 1.0 from dead-ends.
+
+### Summary
+
+- PageRank solves for 𝒓 = 𝑮𝒓 and can be efficiently computed by power iteration of the stochastic adjacency matrix (𝑮);
+- Adding random uniform teleportation solves issues of dead-ends and spider-traps;
+
+

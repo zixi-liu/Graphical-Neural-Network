@@ -24,8 +24,8 @@ Link Analysis allow us to measure importance of nodes in a graph using the link 
 - **Spider Traps** (all out-links are within the group)
 
 **Solution for spider traps:** At each time step, the random surfer has two options
--  With prob. , follow a link at random
--  With prob. 1-, jump to a random page
--  Common values for  are in the range 0.8 to 0.9
+-  With prob. b, follow a link at random
+-  With prob. 1-b, jump to a random page
+-  Common values for b are in the range 0.8 to 0.9
 
 Surfer will teleport out of spider trap within a few time steps.

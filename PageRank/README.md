@@ -49,6 +49,10 @@ Surfer will teleport out of spider trap within a few time steps.
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/random-walk-restarts.PNG" alt="Bipartite Graph" width = "800px" />
 
+**Pseudo Code**
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/pseudo-code.PNG" alt="Pseudo Code" width = "800px" />
+
 
 ## Personalized Page Rank
 

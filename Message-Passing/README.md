@@ -6,7 +6,12 @@
 
 ## Collective Classification
 
-**Intuition:** Simultaneous classification of interlinked nodes using correlations
+**Intuition:** Simultaneous classification of interlinked nodes using correlations;
 
 **Markov Assumption:** The label Y of one node v depends on the labels of its neighbors Nvs:
 - P(Yv) = P(Yv | Nv)
+
+Collective Classification involves 3 steps:
+- Local Classifier
+- Relational Classifier
+- Collective Inference

@@ -20,3 +20,7 @@
  
 **Idea:** Class probability Yv of node v is a weighted average of class probabilities of its neighbors.
 
+- For labeled nodes v, initialize label Yv with ground-truth label Yv∗.
+- For unlabeled nodes, initialize Yv = 0.5.
+- Update all nodes in a random order until convergence or until maximum number of iterations is reached.
+

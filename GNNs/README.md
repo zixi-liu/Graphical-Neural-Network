@@ -35,3 +35,10 @@
 - Random walks (node2vec, DeepWalk, struc2vec);
 - Matrix factorization;
 - Node proximity in the graph;
+
+### Supervised Training
+
+**Directly train the model for a supervised task (e.g., node classification).**
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/cross-entropy.PNG" alt="Cross Entropy Loss" width = "400px"/>
+

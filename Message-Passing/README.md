@@ -27,3 +27,7 @@
 ## Iterative Classifiction
 
 **Idea:** Classify node v based on its attributes fv as well as labels Zv of neighbor set Nv.
+
+**Input:** Graph
+- fv: feature vector for node v;
+- Some nodes v are labeled with Yv;

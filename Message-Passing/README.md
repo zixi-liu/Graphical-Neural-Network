@@ -16,6 +16,10 @@
 - **Relational Classifier:** Learns a classifier to label one node based on the labels/attributes of its neighbors;
 - **Collective Inference:** Apply relational classifier to each node iteratively; Iterate until the inconsistency between neighboring labels is minimized;
 
+**Loopy Belief Propagation**
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/belief-propagation.PNG" alt="Belief Propagation"/>
+
 ## Relational Classification
  
 **Idea:** Class probability Yv of node v is a weighted average of class probabilities of its neighbors.

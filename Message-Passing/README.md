@@ -24,3 +24,6 @@
 - For unlabeled nodes, initialize Yv = 0.5.
 - Update all nodes in a random order until convergence or until maximum number of iterations is reached.
 
+## Iterative Classifiction
+
+**Idea:** Classify node v based on its attributes fv as well as labels Zv of neighbor set Nv.

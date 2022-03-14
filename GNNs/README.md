@@ -11,8 +11,15 @@
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/deep-encoder.PNG" alt="Deep Graph Encoder"/>
 
-## Deep Learning for Graphs
+## Graphical Neural Networks
 
-**Idea:** Transform information at the neighbors and combine it:
-- Transform "messages" hi from neighbors: Wihi
-- Adding them up
+**Idea:** Node's neighborhood defines a computatinoal graph.
+
+### Aggregate Neighbors
+
+**Basic approach:** Average neighbor messages and apply a neural network.
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/neighbor-agg.PNG" alt="Neighborhood Aggregation"/>
+
+
+

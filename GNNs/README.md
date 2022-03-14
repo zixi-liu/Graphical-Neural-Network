@@ -2,10 +2,10 @@
 
 ### Tasks on Networks
 
-- **Node classification:** Predict a type of a given node
-- **Link prediction:** Predict whether two nodes are linked
-- **Community detection:** Identify densely linked clusters of nodes
-- **Network similarity:** How similar are two (sub)networks
+- **Node classification:** Predict a type of a given node;
+- **Link prediction:** Predict whether two nodes are linked;
+- **Community detection:** Identify densely linked clusters of nodes;
+- **Network similarity:** How similar are two (sub)networks;
 
 ## Deep Graph Encoder
 

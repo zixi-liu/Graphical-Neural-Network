@@ -51,4 +51,8 @@
 
 ## A General GNN Framework
 
+### A Single GNN Layer 
+
 **GNN = Message + Aggregation**
+
+### Stacking Layers of a GNN

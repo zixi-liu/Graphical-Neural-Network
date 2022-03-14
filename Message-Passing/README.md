@@ -16,9 +16,12 @@
 - **Relational Classifier:** Learns a classifier to label one node based on the labels/attributes of its neighbors;
 - **Collective Inference:** Apply relational classifier to each node iteratively; Iterate until the inconsistency between neighboring labels is minimized;
 
-**Loopy Belief Propagation**
+**Message Passing**
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/belief-prop.PNG" alt="Belief Propagation" />
+
+**Loopy Belief Propagation**
+
 
 ## Relational Classification
  

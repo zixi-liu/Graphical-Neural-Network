@@ -20,4 +20,7 @@ Collective Classification involves 3 steps:
   - Apply relational classifier to each node iteratively; 
   - Iterate until the inconsistency between neighboring labels is minimized;
 
+## Relational Classification
+ 
+**Idea:** Class probability Yv of node v is a weighted average of class probabilities of its neighbors.
 

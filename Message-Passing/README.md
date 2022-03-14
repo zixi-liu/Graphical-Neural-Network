@@ -35,5 +35,5 @@
 **Task:** Predict label of unlabeled nodes;
 
 **Approach:** Train two classifiers:
-- Predict node label based on node feature vector fv. This is called base classifier.
-- Predict label based on node feature vector fv and summary Zv of labels of v’s neighbors. This is called relational classifier.
+- Predict node label based on node feature vector fv. This is called *base classifier*.
+- Predict label based on node feature vector fv and summary Zv of labels of v’s neighbors. This is called *relational classifier*.

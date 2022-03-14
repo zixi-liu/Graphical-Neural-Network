@@ -26,3 +26,7 @@
 **“Similar” nodes have similar embeddings**
  
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gnn-embedding.PNG" alt="Unsupervised embedding" width = "400px"/>
+
+- Where yu,v = 1 when node u and v are similar;
+- CE is the cross entropy;
+- DEC is the decoder such as inner product;

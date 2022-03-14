@@ -42,3 +42,9 @@
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/cross-entropy.PNG" alt="Cross Entropy Loss" width = "500px"/>
 
+### Model Design
+
+1. Define a neighborhood aggregation function;
+2. Define a loss function on the embeddings;
+3. Train on a set of nodes, i.e., a batch of compute graphs;
+4. Generate embeddings for nodes as needed;

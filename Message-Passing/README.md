@@ -18,7 +18,7 @@
 
 **Loopy Belief Propagation**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/belief-propagation.PNG" alt="Belief Propagation"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/belief-propagation.PNG" alt="Belief Propagation" width = "600px"/>
 
 ## Relational Classification
  

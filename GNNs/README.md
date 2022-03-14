@@ -19,7 +19,7 @@
 
 **Basic approach:** Average neighbor messages and apply a neural network.
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/neighbor-agg.PNG" alt="Neighborhood Aggregation"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/neighbor-agg.PNG" alt="Neighborhood Aggregation" width = "600px"/>
 
 
 

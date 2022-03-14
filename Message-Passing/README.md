@@ -12,13 +12,9 @@
 - P(Yv) = P(Yv | Nv)
 
 Collective Classification involves 3 steps:
-- Local Classifier
-  - Predict labels based on node features;
-- Relational Classifier
-  - Learns a classifier to label one node based on the labels/attributes of its neighbors;
-- Collective Inference
-  - Apply relational classifier to each node iteratively; 
-  - Iterate until the inconsistency between neighboring labels is minimized;
+- **Local Classifier:** Predict labels based on node features;
+- **Relational Classifier:** Learns a classifier to label one node based on the labels/attributes of its neighbors;
+- **Collective Inference:** Apply relational classifier to each node iteratively; Iterate until the inconsistency between neighboring labels is minimized;
 
 ## Relational Classification
  

@@ -30,3 +30,8 @@
 - Where yu,v = 1 when node u and v are similar;
 - CE is the cross entropy;
 - DEC is the decoder such as inner product;
+
+**Node similarity can be anything from:**
+- Random walks (node2vec, DeepWalk, struc2vec);
+- Matrix factorization;
+- Node proximity in the graph;

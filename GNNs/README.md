@@ -63,7 +63,7 @@ GNN = Message + Aggregation
 
 **Graph Convolutionaln Network**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn.PNG" alt="GCN" width = "500px"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn.PNG" alt="GCN" width = "400px"/>
 
 
 ### Stacking Layers of a GNN

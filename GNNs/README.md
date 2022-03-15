@@ -61,7 +61,7 @@ GNN = Message + Aggregation
 
 - **Nonlinearity (activation function)** 
 
-**Graph Convolutionaln Network**
+**Graph Convolutional Network** [[arXiv]](https://arxiv.org/pdf/1609.02907.pdf)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn.PNG" alt="GCN" width = "400px"/>
 

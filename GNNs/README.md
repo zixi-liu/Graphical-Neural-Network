@@ -76,3 +76,7 @@ GNN = Message + Aggregation
 - Implicitly specifying different weights to different nodes in a neighborhood;
 
 ### Stacking Layers of a GNN
+
+**The over-smoothing problem**
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/over-smooth.PNG" alt="Over Smooth" />

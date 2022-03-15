@@ -53,6 +53,12 @@
 
 ### A Single GNN Layer 
 
-**GNN = Message + Aggregation**
+GNN = Message + Aggregation
+
+- **Message:**  Each node will create a message, which will be sent to other nodes later; m(l) = MSG(l) * h(l-1)
+
+- **Aggregation:** Each node will aggregate the messages from node v’s neighbors
+
+- **Nonlinearity (activation function)** 
 
 ### Stacking Layers of a GNN

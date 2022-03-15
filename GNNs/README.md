@@ -69,4 +69,10 @@ GNN = Message + Aggregation
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/graphsage.PNG" alt="GraphSage" width = "600px"/>
 
+**Graph Attention Networks** [[arXiv]](https://arxiv.org/pdf/1710.10903.pdf)
+
+**Idea:** Compute embeddin of each node in the graph following an attention strategy:
+- Nodes attend over their neighborhoods’ message;
+- Implicitly specifying different weights to different nodes in a neighborhood;
+
 ### Stacking Layers of a GNN

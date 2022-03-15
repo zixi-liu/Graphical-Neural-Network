@@ -65,5 +65,8 @@ GNN = Message + Aggregation
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn.PNG" alt="GCN" width = "400px"/>
 
+**GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/graphsage.PNG" alt="GraphSage" width = "400px"/>
 
 ### Stacking Layers of a GNN

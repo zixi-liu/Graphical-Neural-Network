@@ -1,5 +1,8 @@
 # Personalized Product Recommendations
 
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/Youtube.JPG" alt="recommendation"/>
+
+
 [Cypher Cheatsheet](https://neo4j.com/docs/cypher-refcard/current/?ref=browser-guide)
 
 **Example of Movie Recommendations**

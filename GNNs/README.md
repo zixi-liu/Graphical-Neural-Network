@@ -71,6 +71,11 @@ GNN = Message + Aggregation
 
 GCN model scales linearly in the number of graph edges and learns hidden layer representations that encode both local graph structure and features of nodes.
 
+Traditional graph-based semi-supervised learning: classifying nodes where labels are only available for a small subset of nodes.
+- Label information is smoothed over the graph via some form of implicit graph-based regularization.
+
+**GCN:** Encode graph structure directly using a neural network model f(X, A) and train on a supervised target L0 for all nodes with labels (avoiding graph-based regularization in the loss function).
+
 
 
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)

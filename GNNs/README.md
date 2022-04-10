@@ -80,7 +80,7 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 
 - Multi-layer Graph Convolutional Network (GCN)
   
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/multi-layer-gcn-png" alt="GCN" width = "600px"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/multi-layer-gcn.png" alt="GCN" width = "600px"/>
 
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 

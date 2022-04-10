@@ -13,7 +13,7 @@
 
 ## Graphical Neural Networks
 
-**Idea:** Node's neighborhood defines a computatinoal graph.
+**Idea:** Node's neighborhood defines a computational graph.
 
 ### Aggregate Neighbors
 

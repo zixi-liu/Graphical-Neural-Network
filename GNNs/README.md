@@ -1,6 +1,6 @@
 # GNNs
 
-- [Graph Convolutional Network](#Graph-Convolutional-Network)
+- [[GCN] Graph Convolutional Network](#Graph-Convolutional-Network)
 
 ### Tasks on Networks
 

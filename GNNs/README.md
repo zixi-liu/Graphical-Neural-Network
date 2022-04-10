@@ -76,7 +76,11 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 
 **GCN:** Encode graph structure directly using a neural network model f(X, A) and train on a supervised target L0 for all nodes with labels (avoiding graph-based regularization in the loss function).
 
+**Fast Approximate Convolutions on Graphs**
 
+- Multi-layer Graph Convolutional Network (GCN)
+  
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/multi-layer-gcn-png" alt="GCN" width = "600px"/>
 
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 

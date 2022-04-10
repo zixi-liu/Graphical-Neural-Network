@@ -1,5 +1,7 @@
 # GNNs
 
+- [A Single GNN Layer](#A-Single-GNN-Layer)
+
 ### Tasks on Networks
 
 - **Node classification:** Predict a type of a given node;
@@ -64,6 +66,10 @@ GNN = Message + Aggregation
 #### Graph Convolutional Network [[arXiv]](https://arxiv.org/pdf/1609.02907.pdf)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn.PNG" alt="GCN" width = "400px"/>
+
+GCN model scales linearly in the number of graph edges and learns hidden layer representations that encode both local graph structure and features of nodes.
+
+
 
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 

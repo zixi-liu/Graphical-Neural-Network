@@ -1,6 +1,6 @@
 # GNNs
 
-- [A Single GNN Layer](#A-Single-GNN-Layer)
+- [Graph Convolutional Network](#Graph-Convolutional-Network)
 
 ### Tasks on Networks
 

@@ -93,7 +93,7 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 
 **Semi-Supervised Node Classification**
 
-<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn-visualization.png" alt="GCN Visualization" width = "600px"/>
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn-visualization.png" alt="GCN Visualization" width = "800px"/>
 
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 

@@ -54,7 +54,7 @@
 3. Train on a set of nodes, i.e., a batch of compute graphs;
 4. Generate embeddings for nodes as needed;
 
-## A General GNN Framework
+## GNN Frameworks
 
 ### A Single GNN Layer 
 

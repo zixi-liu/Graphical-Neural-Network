@@ -96,7 +96,7 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn-visualization.png" alt="GCN Visualization" width = "800px"/>
 
-[**Code Example**](https://github.com/tkipf/gcn)
+[**Code Example**](https://github.com/tkipf/pygcn/)
 
 ### GraphSage 
 

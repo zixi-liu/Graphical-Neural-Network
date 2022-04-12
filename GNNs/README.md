@@ -85,6 +85,10 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
   
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/multi-gcn.png" alt="GCN" width = "600px"/>
 
+- Spectral Graph Convolutions
+
+  - Spectral convolutions on graphs defined as the multiplication of a signal x ∈ RN (a scalar for every node) with a filter gθ = diag(θ) parameterized by θ ∈ RN in the Fourier domain: gθ * x = Ugθ UTx.
+
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/graphsage.PNG" alt="GraphSage" width = "600px"/>

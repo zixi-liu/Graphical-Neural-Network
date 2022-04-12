@@ -1,6 +1,7 @@
 # GNNs
 
 - [[GCN] Graph Convolutional Network](#Graph-Convolutional-Network)
+- [GraphSage](#GraphSage)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gnn_categories.png" alt="GNN Categories"/>
 
@@ -97,7 +98,9 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 
 [**Code Example**](https://github.com/tkipf/gcn)
 
-**GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
+### GraphSage 
+
+[[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/graphsage.PNG" alt="GraphSage" width = "600px"/>
 

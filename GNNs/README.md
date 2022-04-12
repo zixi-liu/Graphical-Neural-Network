@@ -2,6 +2,9 @@
 
 - [[GCN] Graph Convolutional Network](#Graph-Convolutional-Network)
 
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gnn_categories.png" alt="GNN Categories"/>
+
+
 ### Tasks on Networks
 
 - **Node classification:** Predict a type of a given node;

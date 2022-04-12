@@ -86,8 +86,14 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/multi-gcn.png" alt="GCN" width = "600px"/>
 
 - Spectral Graph Convolutions
-
   - Spectral convolutions on graphs defined as the multiplication of a signal x ∈ RN (a scalar for every node) with a filter gθ = diag(θ) parameterized by θ ∈ RN in the Fourier domain: gθ * x = Ugθ UTx.
+
+- Layer-Wise Linear Model
+  - A neural network model based on graph convolutions can therefore be built by stacking multiple convolutional layers, each layer followed by a point-wise non-linearity. We intuitively expect that such a model can alleviate the problem of overfitting on local neighborhood structures for graphs with very wide node degree distributions, such as social networks, citation networks, knowledge graphs and many other real-world graph datasets. Additionally, for a fixed computational budget, this layer-wise linear formulation allows us to build deeper models, a practice that is known to improve modeling capacity on a number of domains.
+
+**Semi-Supervised Node Classification**
+
+<img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gcn-visualization.png" alt="GCN Visualization" width = "600px"/>
 
 **GraphSage** [[arXiv]](https://arxiv.org/pdf/1706.02216.pdf)
 

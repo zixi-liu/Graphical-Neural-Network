@@ -19,4 +19,9 @@ Recommend items that are similar to those that a user is viewing, rated highly o
 
 Use the preferences, ratings and actions of other users in the network to find items to recommend.
 
+# Neo4j Graph Data Science (GDS) 
+
+The Neo4j Graph Data Science (GDS) library provides extensive analytical capabilities centered around graph algorithms. The library includes algorithms for community detection, centrality, node similarity, path finding, and link prediction, as well as graph catalog procedures designed to support data science workflows and machine learning tasks over your graphs. 
+
+
 [Graph Embeddings](https://towardsdatascience.com/node-embeddings-node2vec-with-neo4j-5152d3472d8e)

@@ -18,3 +18,5 @@ Recommend items that are similar to those that a user is viewing, rated highly o
 ## Collaborative Filtering
 
 Use the preferences, ratings and actions of other users in the network to find items to recommend.
+
+[Graph Embeddings](https://towardsdatascience.com/node-embeddings-node2vec-with-neo4j-5152d3472d8e)

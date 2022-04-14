@@ -23,5 +23,7 @@ Use the preferences, ratings and actions of other users in the network to find i
 
 The Neo4j Graph Data Science (GDS) library provides extensive analytical capabilities centered around graph algorithms. The library includes algorithms for community detection, centrality, node similarity, path finding, and link prediction, as well as graph catalog procedures designed to support data science workflows and machine learning tasks over your graphs. 
 
+Neo4j Graph Data Science library supports the random walk algorithm, which makes it very easy for us to implement the node2vec algorithm. 
+
 
 [Graph Embeddings](https://towardsdatascience.com/node-embeddings-node2vec-with-neo4j-5152d3472d8e)

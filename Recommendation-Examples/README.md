@@ -3,7 +3,7 @@
 
 [Cypher Cheatsheet](https://neo4j.com/docs/cypher-refcard/current/?ref=browser-guide)
 
-**Example of Movie Recommendations**
+**Example of Neo4j Movie Recommendations**
 
 ```
 CALL db.schema.visualization()

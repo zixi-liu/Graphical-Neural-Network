@@ -1,4 +1,9 @@
-# GNNs
+# GNNs Roadmap 
+
+Table of Content
+
+- [A Refresher on Graph Learning](#A-Refresher-on-Graph-Learning)
+- 
 
 ## A Refresher on Graph Learning
 
@@ -51,6 +56,8 @@ A brief history of algorithms of deep learning on graphs.
 - 4） Graph Generative Networks
 - 5） Graph Spatial-Temporal Networks
 
+
+[**Graph neural networks: A review of methods and applications (Page 14 for a list of applications)**](https://arxiv.org/pdf/1812.08434.pdf)
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/gnn_categories.png" alt="GNN Categories"/>
 

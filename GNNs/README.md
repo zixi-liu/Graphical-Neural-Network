@@ -3,7 +3,8 @@
 Table of Content
 
 - [A Refresher on Graph Learning](#A-Refresher-on-Graph-Learning)
-- 
+- [GNN Model](#Graphical-Convolutional-Networks)
+- [Frequent Subgraph Mining with GNNs](#Frequent-Subgraph-Mining-with-GNNs)
 
 ## A Refresher on Graph Learning
 
@@ -172,3 +173,6 @@ Traditional graph-based semi-supervised learning: classifying nodes where labels
 **The over-smoothing problem**
 
 <img src="https://github.com/zixi-liu/Graphical-Neural-Network/blob/main/Img/over-smooth.PNG" alt="Over Smooth" />
+
+
+## Frequent Subgraph Mining with GNNs

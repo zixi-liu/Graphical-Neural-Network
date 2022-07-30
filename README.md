@@ -5,7 +5,7 @@
 
  <br />
 
-This blog contains hands-on learning resources to quick start on graph machine leaning. 
+This blog contains hands-on learning resources to quick start on graph machine learning. 
 
 ## Topics
 

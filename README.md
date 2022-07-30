@@ -11,6 +11,7 @@ This blog contains hands-on learning resources to quick start on graph machine l
 
 - Node Embeddings
 - Link Analysis
+- Graph Algorithms
 - Graph Neural Networks Roadmap
 - Deep Generative Models for Graphs
 - GNNs for Fraud Detection

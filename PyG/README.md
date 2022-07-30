@@ -36,3 +36,15 @@ Let's suppose we have our own nodes, edges, and labels data, here're the steps t
 - source_node_type [string], 
 - target_node_type [string], 
 - edge_type [string]
+
+**Creating Heterogeneous Graphs**
+
+Most graphs in the area of recommendation, such as social graphs, are heterogeneous, as they store information about different types of entities and their different types of relations.
+
+We can create a data object of type torch_geometric.data.HeteroData:
+
+```
+from torch_geometric.data import HeteroData
+
+data = HeteroData()
+```

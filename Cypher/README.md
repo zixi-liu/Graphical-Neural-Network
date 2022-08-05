@@ -56,6 +56,7 @@ RETURN gds.util.asNode(nodeId).name AS name, score
 ORDER BY score DESC, name ASC
 ```
 
-How does output looks like?
+Outputs PageRank Score:
 
-![image](https://user-images.githubusercontent.com/46979228/183001454-21cf1a50-b8d0-456f-970d-a5cd84e7a019.png)
+<img src="https://user-images.githubusercontent.com/46979228/183001454-21cf1a50-b8d0-456f-970d-a5cd84e7a019.png" alt="GNN" width = "600"/>
+

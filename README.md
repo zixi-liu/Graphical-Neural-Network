@@ -21,5 +21,6 @@ This blog contains hands-on learning resources to quick start on graph machine l
 
 ## Resources
 - Stanford CS224W: Machine Learning with Graphs [[Class Video]](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=1)
+- [Google Research GNN](https://drive.google.com/file/d/1FjhdZNdMVGmaypWizr208iLxeqY4hRk5/view)
 - Awesome Collection of Research Papers on Fraud Detection using GNNs [[Research Papers]](https://github.com/safe-graph/graph-fraud-detection-papers)
 - Awesome Slides from a Talk on Fraud Detection using GNNs [[Slides]](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)
